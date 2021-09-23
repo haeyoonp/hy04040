@@ -6,7 +6,7 @@
 
     🌱 I’m currently learning computer science at the University of Chicago
 
-    👯 I’m looking to collaborate on many data related projects
+    👯 I’m looking to collaborate on data related projects
 
     📫 How to reach me: under my profile :)
 
