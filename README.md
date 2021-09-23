@@ -4,7 +4,7 @@
 **hy04040/hy04040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-    🌱 I’m currently learning data analytics at the University of Chicago
+    🌱 I’m currently learning computer science at the University of Chicago
 
     👯 I’m looking to collaborate on many data related projects
 
