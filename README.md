@@ -6,8 +6,6 @@
 
     🌱 I’m currently learning computer science at the University of Chicago
 
-    👯 I’m looking to collaborate on data related projects
-
     📫 How to reach me: under my profile :)
 
-    🔭 I worked as a Software Engineer for 3yrs+
+    🔭 I am a Software Engineer (3yrs+)
